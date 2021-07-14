@@ -1,6 +1,6 @@
-# Quasar App (client)
+# 保衛者
 
-A Quasar Framework app
+練習Babylon.js，因個人習慣直接套用quasar framework
 
 ## Install the dependencies
 ```bash
@@ -11,16 +11,3 @@ npm install
 ```bash
 quasar dev
 ```
-
-### Lint the files
-```bash
-npm run lint
-```
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
